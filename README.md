@@ -7,7 +7,7 @@ Hi, I'm Rahil Sharma! I hold a **B.S. in Computer Science and Mathematics (Doubl
 
 ## 🧑‍💻 Professional Experience
 
-- **Software Engineer (Contract)** at Website.inc AI: Optimized core components using the MERN Stack and AWS, improving client engagement by 15% and boosting user satisfaction by integrating seamless payment and communication features.
+- **Software Engineer ** at Website.inc AI: Optimized core components using the MERN Stack and AWS, improving client engagement by 15% and boosting user satisfaction by integrating seamless payment and communication features.
 - **Data Science Intern** at United Way British Columbia: Enhanced funding allocation predictions by 20% through large-scale data analysis using Python and TensorFlow, driving impactful resource distribution strategies for over 4 million residents.
 
 ## 🛠 Technical Skills
