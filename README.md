@@ -3,41 +3,21 @@
 📧 **Contact**: [rahilsharmabld@gmail.com](mailto:rahilsharmabld@gmail.com)  
 🌐 **Portfolio**: [rahil-sfu.github.io/Personal-Website/](https://rahil-sfu.github.io/Personal-Website/)  
 
-I'm Rahil Sharma, a recent graduate from Simon Fraser University with a **B.S. in Computer Science and Mathematics (Double Major)**. As a Software Engineer and Data Scientist, I focus on developing efficient, scalable solutions that combine my technical skills with a passion for impactful projects.
+Hi, I'm Rahil Sharma! I hold a **B.S. in Computer Science and Mathematics (Double Major)** from Simon Fraser University. My background spans software engineering and data science, with a focus on building scalable, high-performance applications and data-driven solutions.
 
-## 🧑‍💻 Work Experience
+## 🧑‍💻 Professional Experience
 
-### Software Engineer (Contract) — Website.inc AI (2023)
-- Developed and optimized core software components using the MERN Stack (MongoDB, Express, React, Node.js) and AWS, enhancing client engagement by 15%.
-- Designed custom workflow applications with integrated APIs (e.g., Stripe, Twilio) to streamline payment processing and improve user satisfaction by 10%.
-- Applied SEO best practices and advanced image compression to boost website performance and reduce bounce rates by 10%.
-
-### Data Science Intern — United Way British Columbia (2022)
-- Improved funding allocation prediction accuracy by 20%, leading data analysis for resource distribution impacting over 4 million residents.
-- Conducted large-scale analysis using Python (Pandas, TensorFlow, GeoPandas), and created interactive maps to visualize funding impact across British Columbia.
-
-## 🚀 Projects
-
-### Predicting Stock Trends | Python, NLP
-- Built a sentiment analysis model using Python NLP libraries to predict stock trends from news articles, achieving a 70% accuracy rate.
-- Developed an LSTM model for sentiment classification with 90% accuracy, showcasing advanced predictive capabilities.
-
-### Real-Time Map with Route Simulation | React Native, Google Maps API
-- Created a cross-platform React Native app integrating Google Maps and Mapbox APIs to simulate routes and display real-time user locations with custom markers.
-
-### Shop Essentials | JavaScript, Spring Boot, Heroku
-- Developed an Amazon-like eCommerce site from concept to deployment, featuring user-friendly interfaces, secure payment, and recommendation functionality.
-- Integrated back-end and front-end with JavaScript, Google Maps API, HTML, CSS, Java, Spring, and Heroku.
-
-### Vancouver’s Crime Analysis | Python, Machine Learning
-- Conducted analysis of Vancouver crime data using Python and ML algorithms, integrating variables like COVID-19 and weather to develop a targeted crime prevention model.
+- **Software Engineer (Contract)** at Website.inc AI: Optimized core components using the MERN Stack and AWS, improving client engagement by 15% and boosting user satisfaction by integrating seamless payment and communication features.
+- **Data Science Intern** at United Way British Columbia: Enhanced funding allocation predictions by 20% through large-scale data analysis using Python and TensorFlow, driving impactful resource distribution strategies for over 4 million residents.
 
 ## 🛠 Technical Skills
 
-- **Languages**: Python, JavaScript, Java, HTML/CSS, C/C++, Kotlin, R, SQL (Postgres), LaTeX
-- **Technologies**: MongoDB, Express, React, Node.js, Django, React Native
-- **Developer Tools**: Git, AWS, VS Code, Visual Studio
-- **Libraries**: Pandas, GeoPandas, NumPy, Matplotlib
+- **Languages**: Python, JavaScript, Java, C/C++, HTML/CSS, SQL (Postgres), R, Kotlin, LaTeX
+- **Web & App Development**: MERN Stack (MongoDB, Express, React, Node.js), Django, React Native, Spring Boot
+- **Developer Tools**: Git, AWS, VS Code, Visual Studio, Heroku
+- **Libraries & Frameworks**: Pandas, GeoPandas, NumPy, Matplotlib, TensorFlow
+- **Other Skills**: SEO optimization, API integration (e.g., Stripe, Twilio), advanced data visualization, image compression techniques
+
 
 ## 📫 Let's Connect!
-Feel free to reach out if you’re interested in collaborating or discussing tech, data science, or anything software-related!
+Feel free to reach out if you’d like to discuss tech, data science, or potential collaborations!
