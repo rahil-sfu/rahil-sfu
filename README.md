@@ -39,8 +39,5 @@ I'm Rahil Sharma, a recent graduate from Simon Fraser University with a **B.S. i
 - **Developer Tools**: Git, AWS, VS Code, Visual Studio
 - **Libraries**: Pandas, GeoPandas, NumPy, Matplotlib
 
-## 🌱 What I'm Learning
-I'm currently expanding my skills in cloud computing and microservices architecture, with a focus on AWS and Docker.
-
 ## 📫 Let's Connect!
 Feel free to reach out if you’re interested in collaborating or discussing tech, data science, or anything software-related!
